@@ -2,7 +2,9 @@
 
 **Plateforme open source de prévention des fuites de données (DLP) et d'arbitrage SOC pour le milieu bancaire.**
 
-Projet de Master II en sécurité des systèmes d'information (Institut Universitaire Saint Jean, 2026) : *Conception et mise en place d'un système de Data Loss Prevention et d'arbitrage SOC en milieu bancaire : cas d'Afriland First Bank.*
+Projet de Master II en sécurité des systèmes d'information (Institut Universitaire Saint Jean, 2026) : *Conception et mise en place d'un système de Data Loss Prevention et d'arbitrage SOC en milieu bancaire.*
+
+**Une solution pensée pour les banques**, en particulier celles de la zone CEMAC. Le nom de l'établissement ayant servi de cadre au projet a été masqué sur les captures.
 
 Auteur : **Brice YOMBO**, analyste SOC junior – [LinkedIn](https://www.linkedin.com/in/brice-yombo) · [TryHackMe](https://tryhackme.com/p/brice_yombo)
 
